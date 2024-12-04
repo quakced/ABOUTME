@@ -25,7 +25,7 @@ How hackers get into in things
   
 ## Role Models
 - My Mom
-<img src = "https://github.com/user-attachments/assets/67f98cce-6400-424f-9712-61a7f14b7041)">
+<img src = "https://github.com/user-attachments/assets/67f98cce-6400-424f-9712-61a7f14b7041">
 - My Dad
 <img src = "https://github.com/user-attachments/assets/57202821-5ded-43a8-a2e1-0ab0094d4931">
 - Brad Owen
