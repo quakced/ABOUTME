@@ -31,7 +31,7 @@ How hackers get into in things
 - Brad Owen
 <img src = "">
 - iiTzTimmy
-<img src = "">
+<img src = "https://github.com/user-attachments/assets/1b59966a-69f1-444a-bedd-e2e45a686dac">
 
 ## Favorite Songs
 -Big Dawgs | Hanumankind and Kalmi | Hip-Hop/Rap | 2024 |
